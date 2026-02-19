@@ -32,7 +32,3 @@ A **4x4 JavaFX puzzle game** where you jump balls over each other to remove them
 - Interactive JavaFX grid
 - Dynamic button visibility
 - Real-time move and ball count updates
-
----
-
-*Fun digital take on the classic peg solitaire puzzle!*
