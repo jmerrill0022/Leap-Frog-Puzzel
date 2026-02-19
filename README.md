@@ -1,4 +1,4 @@
-# 🟢 Peg Jump Puzzle Game
+# 🟢 Leap-Frog-Puzzel
 
 A **4x4 JavaFX puzzle game** where you jump balls over each other to remove them.  
 
